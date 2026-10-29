@@ -1,0 +1,10 @@
+kind: DevopsBatch
+apiVersion: roshan.com/v1
+metadata:
+  name: batch-1
+spec:
+  name: devops 0 to hero
+  duration: 3 month
+  platform: rld.com
+  mode: live
+
